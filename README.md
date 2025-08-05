@@ -1,8 +1,7 @@
 # Assembly
 practice assembly
 
-$`gcc -o asm -static -nostdlib asm.s`
+`make && make run`
 
-`./asm`
-
-`Hello World!` 
+`Hello World!`
+ 
